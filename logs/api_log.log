@@ -1,7 +1,9 @@
+
 INFO:werkzeug: * Running on http://localhost:9091/ (Press CTRL+C to quit)
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 276-058-680
-INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 16:14:10] "[37mPOST /insert HTTP/1.1[0m" 200 -
-INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 16:14:33] "[37mPOST /insert HTTP/1.1[0m" 200 -
-INFO:werkzeug:127.0.0.1 - - [25/Apr/2021 16:14:50] "[37mGET /select HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Debugger PIN: 279-012-666
+INFO:werkzeug: * Running on http://localhost:9095/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 711-761-373
